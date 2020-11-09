@@ -1,4 +1,4 @@
-# MecanicaComputacional
+# Computational mechanics
 
 Repository with computational mechanics algorithms.
 
